@@ -1,0 +1,10 @@
+{
+  "name": "ستائري AR - تصميم الستائر",
+  "description": "تطبيق لتصميم وتفصيل الستائر وتجربتها في الغرفة بالواقع المعزز (AR) قبل الشراء مع حساب المقاسات واختيار الأقمشة وحساب التكلفة.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
